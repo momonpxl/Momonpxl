@@ -1,73 +1,92 @@
-<h1 align="center">Momon</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Momon&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <p align="center">
   <strong>Software Developer • UI/UX Designer • Digital Creative</strong>
 </p>
 
 <p align="center">
-  Building functional, scalable, and well-designed digital products.
+  Building modern, scalable, and user-centered digital experiences.
 </p>
 
 ---
 
 ## 👋 Introduction
-Hello, I'm **Momon**, a software developer and UI/UX designer with a strong interest in creating modern, efficient, and user-centered digital solutions.  
-I focus on combining clean code with thoughtful design to deliver products that are not only functional but also intuitive and visually appealing.
-
-I am continuously improving my technical and design skills while staying adaptable to new technologies and workflows.
+Hello, I'm **Momon**, a software developer and UI/UX designer focused on crafting clean code and intuitive visual experiences.  
+I specialize in combining **logic-driven development** with **design thinking** to create products that are efficient, elegant, and impactful.
 
 ---
 
-## 💼 Areas of Focus
+## 🚀 Areas of Expertise
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,figma,git&theme=dark" />
+</p>
+
 - Web Application Development  
 - UI / UX Design  
-- Digital Product & Visual Design  
-- Frontend & Logic-Oriented Programming  
+- Digital & Visual Product Design  
+- Frontend Logic & Interactivity  
 
 ---
 
 ## 🧠 Programming Languages
-Languages I use regularly in development:
-
-- **Python** — scripting, automation, backend logic
-- **JavaScript** — web development and interactivity
+- **Python** — backend logic, automation, scripting  
+- **JavaScript** — frontend development & interactivity  
 
 ---
 
-## 📈 Skill Proficiency
+## 📊 Skill Proficiency
 ### Programming
-- **Python**: 78%
-- **JavaScript**: 67%
+- **Python**: 78%  
+- **JavaScript**: 67%  
 
 ### Design
-- **UI / UX Design**: 88%
-- **Poster & Visual Design**: 78%
+- **UI / UX Design**: 88%  
+- **Poster & Visual Design**: 78%  
 
 ---
 
-## 🧰 Tools & Technologies
+## 📈 Skill Visualization
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momonpxl&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧰 Tools & Workflow
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github,figma&theme=dark" />
+</p>
+
 - Visual Studio Code  
 - Git & GitHub  
-- Figma  
+- Figma & Design Tools  
 - HTML, CSS  
-- Design & Prototyping Tools  
 
 ---
 
 ## 🌐 Contact & Social Media
-Feel free to reach out or connect with me:
-
-- **TikTok**: [@momonxpl](https://www.tiktok.com/@momonxpl)
-- **Instagram**: [@momonpxl](https://www.instagram.com/momonpxl)
-- **WhatsApp**: [Chat via WhatsApp](https://wa.me/6283895513613)
-- **Telegram**: [t.me/momonpxl](https://t.me/momonpxl)
+<p align="center">
+  <a href="https://www.tiktok.com/@momonxpl">
+    <img src="https://img.shields.io/badge/TikTok-@momonxpl-black?style=for-the-badge&logo=tiktok" />
+  </a>
+  <a href="https://www.instagram.com/momonpxl">
+    <img src="https://img.shields.io/badge/Instagram-@momonpxl-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/6283895513613">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://t.me/momonpxl">
+    <img src="https://img.shields.io/badge/Telegram-momonpxl-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## ✨ Professional Statement
-> *Focused on clarity, consistency, and continuous improvement in both code and design.*
-
----
+> *Driven by precision, clarity, and continuous innovation in both development and design.*
 
 <p align="center">
-  Thank you for visiting my GitHub profile.
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=120&section=footer" />
 </p>
