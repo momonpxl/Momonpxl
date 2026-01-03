@@ -11,14 +11,17 @@
   <sub>Design-driven development with clarity, precision, and purpose</sub>
 </p>
 
-<br/>
+<!-- CHIBI SIGNATURE (SMALL & PREMIUM) -->
+<p align="right">
+  <img src="https://media.tenor.com/7nJ4XGz9gU8AAAAi/chibi-anime.gif" width="56" />
+</p>
 
 ---
 
 ## 🧭 Profile Overview
-I am **Momon**, a developer and UI/UX designer focused on building **high-quality digital products** that balance performance, usability, and visual excellence.
+I am **Momon**, a software developer and UI/UX designer focused on building **high-quality digital products** that balance performance, usability, and visual excellence.
 
-My approach emphasizes:
+My work emphasizes:
 - clean and maintainable code  
 - structured logic and scalability  
 - modern, user-centered design systems  
@@ -100,7 +103,7 @@ I believe strong products are built where **engineering discipline meets design 
 
 ---
 
-<!-- PREMIUM FOOTER -->
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=160&section=footer" />
 </p>
