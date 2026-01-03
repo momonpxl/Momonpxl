@@ -1,92 +1,106 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Momon&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Momon&height=120&fontSize=60&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <strong>Software Developer • UI/UX Designer • Digital Creative</strong>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4" />
 </p>
 
 <p align="center">
-  Building modern, scalable, and user-centered digital experiences.
+  <strong>Software Developer • UI/UX Designer • Digital Creative</strong><br/>
+  <sub>Design-driven development with clarity, precision, and purpose</sub>
 </p>
 
----
-
-## 👋 Introduction
-Hello, I'm **Momon**, a software developer and UI/UX designer focused on crafting clean code and intuitive visual experiences.  
-I specialize in combining **logic-driven development** with **design thinking** to create products that are efficient, elegant, and impactful.
+<br/>
 
 ---
 
-## 🚀 Areas of Expertise
+## 🧭 Profile Overview
+I am **Momon**, a developer and UI/UX designer focused on building **high-quality digital products** that balance performance, usability, and visual excellence.
+
+My approach emphasizes:
+- clean and maintainable code  
+- structured logic and scalability  
+- modern, user-centered design systems  
+
+I believe strong products are built where **engineering discipline meets design intelligence**.
+
+---
+
+## 🧠 Core Expertise
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,figma,git&theme=dark" />
 </p>
 
-- Web Application Development  
-- UI / UX Design  
-- Digital & Visual Product Design  
-- Frontend Logic & Interactivity  
+- Web & Application Development  
+- UI / UX Design & Prototyping  
+- Frontend Logic & Interaction Design  
+- Visual & Digital Product Design  
 
 ---
 
-## 🧠 Programming Languages
-- **Python** — backend logic, automation, scripting  
-- **JavaScript** — frontend development & interactivity  
+## 🛠 Technology Stack
+### Programming Languages
+- **Python** — backend logic, automation, system scripting  
+- **JavaScript** — web interactivity & application logic  
 
----
-
-## 📊 Skill Proficiency
-### Programming
-- **Python**: 78%  
-- **JavaScript**: 67%  
-
-### Design
-- **UI / UX Design**: 88%  
-- **Poster & Visual Design**: 78%  
-
----
-
-## 📈 Skill Visualization
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momonpxl&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧰 Tools & Workflow
+### Tools & Workflow
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,github,figma&theme=dark" />
 </p>
 
 - Visual Studio Code  
 - Git & GitHub  
-- Figma & Design Tools  
-- HTML, CSS  
+- Figma  
+- HTML & CSS  
 
 ---
 
-## 🌐 Contact & Social Media
+## 📊 Skill Proficiency Matrix
+<p align="center">
+
+| Domain | Skill | Proficiency |
+|------|------|------------|
+| Programming | Python | ███████████████░░░ 78% |
+| Programming | JavaScript | █████████████░░░░░ 67% |
+| Design | UI / UX Design | ██████████████████░ 88% |
+| Design | Poster & Visual Design | ███████████████░░░ 78% |
+
+</p>
+
+---
+
+## 📈 Language Usage Insight
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momonpxl&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+---
+
+## 🌐 Professional Presence
 <p align="center">
   <a href="https://www.tiktok.com/@momonxpl">
-    <img src="https://img.shields.io/badge/TikTok-@momonxpl-black?style=for-the-badge&logo=tiktok" />
+    <img src="https://img.shields.io/badge/TikTok-@momonxpl-111111?style=for-the-badge&logo=tiktok" />
   </a>
   <a href="https://www.instagram.com/momonpxl">
-    <img src="https://img.shields.io/badge/Instagram-@momonpxl-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@momonpxl-1a1a1a?style=for-the-badge&logo=instagram" />
   </a>
   <a href="https://wa.me/6283895513613">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-Direct_Chat-1a1a1a?style=for-the-badge&logo=whatsapp" />
   </a>
   <a href="https://t.me/momonpxl">
-    <img src="https://img.shields.io/badge/Telegram-momonpxl-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-momonpxl-1a1a1a?style=for-the-badge&logo=telegram" />
   </a>
 </p>
 
 ---
 
-## ✨ Professional Statement
-> *Driven by precision, clarity, and continuous innovation in both development and design.*
+## 🧩 Professional Philosophy
+> *Quality is never accidental. It is the result of clarity, discipline, and intentional design.*
 
+---
+
+<!-- PREMIUM FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=160&section=footer" />
 </p>
