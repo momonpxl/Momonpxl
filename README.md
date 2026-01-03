@@ -1,71 +1,73 @@
-<h1 align="center">👋 Hi, I'm Momon</h1>
+<h1 align="center">Momon</h1>
 <p align="center">
   <strong>Software Developer • UI/UX Designer • Digital Creative</strong>
 </p>
 
 <p align="center">
-  🚀 Passionate about coding, design, and building impactful digital products
+  Building functional, scalable, and well-designed digital products.
 </p>
 
 ---
 
-## 👤 About Me
-Halo! Aku **Momon**, seorang developer dan digital creative yang fokus pada pengembangan aplikasi, website, dan desain visual.  
-Aku suka menggabungkan **logika pemrograman** dengan **estetika desain** untuk menciptakan produk yang fungsional, modern, dan user-friendly.
+## 👋 Introduction
+Hello, I'm **Momon**, a software developer and UI/UX designer with a strong interest in creating modern, efficient, and user-centered digital solutions.  
+I focus on combining clean code with thoughtful design to deliver products that are not only functional but also intuitive and visually appealing.
 
-- 💻 Fokus: Web Development & UI/UX
-- 🎨 Minat: Design, Creative Visual, dan Technology
-- 🔥 Selalu tertarik belajar hal baru dan upgrade skill
+I am continuously improving my technical and design skills while staying adaptable to new technologies and workflows.
 
 ---
 
-## 🌐 Social Media & Contact
-Terhubung denganku di platform berikut:
-
-- 🎵 TikTok: [@momonxpl](https://www.tiktok.com/@momonxpl)
-- 📸 Instagram: [@momonpxl](https://www.instagram.com/momonpxl)
-- 💬 WhatsApp: [Chat WhatsApp](https://wa.me/6283895513613)
-- ✈️ Telegram: [t.me/momonpxl](https://t.me/momonpxl)
+## 💼 Areas of Focus
+- Web Application Development  
+- UI / UX Design  
+- Digital Product & Visual Design  
+- Frontend & Logic-Oriented Programming  
 
 ---
 
-## 🛠️ Languages I Use
-Bahasa pemrograman yang sering aku gunakan:
+## 🧠 Programming Languages
+Languages I use regularly in development:
 
-- 🐍 **Python**
-- 🌐 **JavaScript**
+- **Python** — scripting, automation, backend logic
+- **JavaScript** — web development and interactivity
 
 ---
 
-## 📊 Skill Progress
-Tingkat penguasaan skill (dalam persentase):
+## 📈 Skill Proficiency
+### Programming
+- **Python**: 78%
+- **JavaScript**: 67%
 
-### 💻 Programming
-- **Python** ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 78%
-- **JavaScript** ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 67%
-
-### 🎨 Design
-- **UI / UX Design** ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 88%
-- **Poster Design** ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 78%
+### Design
+- **UI / UX Design**: 88%
+- **Poster & Visual Design**: 78%
 
 ---
 
 ## 🧰 Tools & Technologies
-Beberapa tools yang sering aku pakai:
-
-- VS Code  
-- Figma  
+- Visual Studio Code  
 - Git & GitHub  
+- Figma  
 - HTML, CSS  
-- Canva & Design Tools  
+- Design & Prototyping Tools  
 
 ---
 
-## ✨ Motto
-> *"Code with logic, design with feeling."*
+## 🌐 Contact & Social Media
+Feel free to reach out or connect with me:
+
+- **TikTok**: [@momonxpl](https://www.tiktok.com/@momonxpl)
+- **Instagram**: [@momonpxl](https://www.instagram.com/momonpxl)
+- **WhatsApp**: [Chat via WhatsApp](https://wa.me/6283895513613)
+- **Telegram**: [t.me/momonpxl](https://t.me/momonpxl)
+
+---
+
+## ✨ Professional Statement
+> *Focused on clarity, consistency, and continuous improvement in both code and design.*
 
 ---
 
 <p align="center">
-  ⭐ Jangan lupa follow & support repo ini!
+  Thank you for visiting my GitHub profile.
 </p>
