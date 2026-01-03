@@ -13,7 +13,7 @@
 
 <!-- CHIBI SIGNATURE (SMALL & PREMIUM) -->
 <p align="right">
-  <img src="https://media.tenor.com/7nJ4XGz9gU8AAAAi/chibi-anime.gif" width="56" />
+  <img src="https://i.ibb.co/0jjQ12j1/f02f8eef4c7f.png" width="56" />
 </p>
 
 ---
