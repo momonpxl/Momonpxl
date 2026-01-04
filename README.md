@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://i.ibb.co/xSMNdsS0/36d241b696a2.png" width="90"/>
-  <img src="https://i.ibb.co/Y3cTt7c/chibi-anime-2.png" width="90"/>
+  <img src="https://i.ibb.co/vxqhdyFB/a65df3a1d5c8.png" width="90"/>
   <img src="https://i.ibb.co/3S9bYkL/chibi-anime-3.png" width="90"/>
 </p>
 
