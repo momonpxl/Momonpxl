@@ -17,8 +17,6 @@
 
 ---
 
-### ✨ Anime Vibe Showcase
-
 <p align="center">
   <img src="https://i.ibb.co/7Wv0HkX/.chibi-anime-1.png" width="90"/>
   <img src="https://i.ibb.co/Y3cTt7c/chibi-anime-2.png" width="90"/>
@@ -31,7 +29,6 @@
 
 ---
 
-## ⚡ Professional Power Matrix
 
 <table align="center">
   <tr>
@@ -70,7 +67,6 @@
 
 ---
 
-## 🧠 Tech Stack Mastery
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,figma,git,vscode,github&theme=dark&perline=5" />
@@ -84,7 +80,6 @@
 
 ---
 
-## 📊 Development Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=momonpxl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues" width="400" />
@@ -93,7 +88,6 @@
 
 ---
 
-## 🎯 Active Missions
 
 <table align="center">
   <tr>
@@ -105,8 +99,6 @@
 </table>
 
 ---
-
-## 🔗 Professional Links
 
 <p align="center">
   <a href="https://www.tiktok.com/@momonxpl">
