@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/0jjQ1.2j1/f02f8eef4c7f.png" width="56" />
+  <img src="https://i.ibb.co/0jjQ12j1/f02f8eef4c7f.png" width="56" />
 </p>
 
 ---
