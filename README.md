@@ -20,7 +20,7 @@
 ### ✨ Anime Vibe Showcase
 
 <p align="center">
-  <img src="https://i.ibb.co/7Wv0HkX/chibi-anime-1.png" width="90"/>
+  <img src="https://i.ibb.co/7Wv0HkX/.chibi-anime-1.png" width="90"/>
   <img src="https://i.ibb.co/Y3cTt7c/chibi-anime-2.png" width="90"/>
   <img src="https://i.ibb.co/3S9bYkL/chibi-anime-3.png" width="90"/>
 </p>
