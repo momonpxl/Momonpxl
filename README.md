@@ -22,7 +22,7 @@
 <p align="center">
   <img src="https://i.ibb.co/xSMNdsS0/36d241b696a2.png" width="90"/>
   <img src="https://i.ibb.co/vxqhdyFB/a65df3a1d5c8.png" width="90"/>
-  <img src="https://i.ibb.co/3S9bYkL/chibi-anime-3.png" width="90"/>
+  <img src="https://i.ibb.co/gbWhFtxs/5cf427ca69cf.png" width="90"/>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
   <tr>
     <td>Sharingan</td>
     <td>UI / UX Design</td>
-    <td>█████████████ 95%</td>
+    <td>████████████░ 90%</td>
   </tr>
   <tr>
     <td>Bankai</td>
